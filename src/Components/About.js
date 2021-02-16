@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import profilepic from "../img/profilepic.jpg";
 
 class About extends Component {
   render() {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
+      // var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
