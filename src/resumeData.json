@@ -4,7 +4,7 @@
     "occupation":"",
     "description":"Web Developer leveraging project management and compliance background to build web applications and create the ultimate user experience",
     "image":"profilepic.jpg",
-    "bio":"Full-Stack Web Developer leveraging project management and compliance background to build web applications and create the ultimate user experience. Recently obtained a Certificate in Full Stack Web Development from Columbia University with strong technical skills in JavaScript, CSS, HTML, React.js, and responsive web design as well as passion for learning emerging technologies. ",
+    "bio":"Full-Stack Web Developer leveraging project management and compliance background to build web applications and create the ultimate user experience. Recently obtained a Certificate in Full Stack Web Development from Columbia University with strong technical skills in JavaScript, CSS, HTML, React.js, and responsive web design as well as a passion for learning emerging technologies. ",
     "contactmessage":"Contact me to find out how we can work together",
     "email": "piotr72@gmail.com",
     "phone": "917-698-8041",
@@ -45,7 +45,7 @@
         "school":"Seton Hall University",
         "degree":"Masters in Jewish-Christian Studies (Valedictorian)",
         "graduated":"2015",
-        "description":"Developed a critical awareness of the relationship between Jews and Christians — and learn to address complex religious, ethical and social issues to promote justice and peace."
+        "description":"Developed a critical awareness of the relationship between Jews and Christians and learned to address complex religious, ethical and social issues to promote justice and peace."
       },
       {
         "school":"Nicolaus Copernicus University",
@@ -107,19 +107,19 @@
       {
         "title":"Google Books Search",
         "category":"This React app allows users to search for hundreds of thousands of book titles from all over the world through Google Books API.",
-        "image":"fury-fighting-gear.jpg",
+        "image":"https://raw.githubusercontent.com/Piotr72us/google-books-search/main/client/public/img/screenshot-gbs.png",
         "url":"https://google-books-peter.herokuapp.com/"
       },
       {
         "title":"Employee Connect",
         "category":"This app allows you to search, sort, and filter your employee information.",
-        "image":"original-thai-food.jpg",
+        "image":"https://raw.githubusercontent.com/Piotr72us/employee-connect/main/src/img/screen.png",
         "url":"https://piotr72us.github.io/employee-connect/"
       },
       {
         "title":"Balance Pro 2.0",
         "category":"Balance Pro 2.0 is a progressive web app (PWA) that gives users the freedom of tracking their withdrawals and deposits with or without an Internet connection.",
-        "image":"resume-website.jpg",
+        "image":"https://raw.githubusercontent.com/Piotr72us/budget-tracker/main/public/img/screen.png",
         "url":"https://budgets-tracker.herokuapp.com/"
       }
     ]
