@@ -143,7 +143,7 @@ html {
 
 body {
    background: #fff;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato', sans-serif !important;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
@@ -159,7 +159,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
    color: #313131;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif !important;
    font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -180,8 +180,8 @@ p.lead {
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
 the body tag due to rendering problems in some browsers */
-em { font: 15px/30px 'Lato-italic', sans-serif; }
-strong, b { font: 15px/30px 'Lato-bold', sans-serif; }
+em { font: 15px/30px 'Lato', sans-serif; }
+strong, b { font: 15px/30px 'Lato', sans-serif; }
 small { font-size: 11px; line-height: inherit; }
 
 /*	Blockquotes */
@@ -259,7 +259,7 @@ blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Abbreviations */
 abbr {
-   font-family: 'Lato-bold', sans-serif;
+   font-family: 'Lato', sans-serif;
 	font-variant: small-caps;
 	text-transform: lowercase;
    letter-spacing: .5px;
@@ -273,7 +273,7 @@ abbr:hover { cursor: help; }
 	margin: 0;
 	padding: 14px 6px 0 0;
 	font-size: 84px;
-	font-family: /* Copperplate */ 'Lato-bold', sans-serif;
+	font-family: /* Copperplate */ 'Lato', sans-serif;
    line-height: 60px;
 	text-indent: 0;
 	background: transparent;
@@ -344,7 +344,7 @@ li p { }
 .stats-tabs li a {
 	display: inline-block;
 	font-size: 22px;
-	font-family: 'Lato-bold', sans-serif;
+	font-family: 'Lato', sans-serif;
    border: none;
    color: #313131;
 }
@@ -411,7 +411,7 @@ dd { margin: 0 0 0 20px; }
    padding: 0;
 }
 .pagination .page-numbers {
-   font: 15px/18px 'Lato-bold', sans-serif;
+   font: 15px/18px 'Lato', sans-serif;
    display: inline-block;
    padding: 6px 10px;
    margin-right: 3px;
@@ -463,7 +463,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 16px/30px 'Lato-bold', sans-serif;
+   font: 16px/30px 'Lato', sans-serif;
    background: #11ABB0;
    display: inline-block;
 	text-decoration: none;
@@ -565,7 +565,7 @@ textarea { min-height: 220px; }
 
 label,
 legend {
-   font: 16px/24px 'Lato-bold', sans-serif;
+   font: 16px/24px 'Lato', sans-serif;
 	margin: 12px 0;
    color: #3d4145;
    display: block;

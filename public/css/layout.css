@@ -58,14 +58,14 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 60px/1.1em 'opensans-bold', sans-serif;
+   font: 60px/1.1em 'Lato', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 18px/1.9em 'Lato', serif;
    color: rgb(201, 194, 194);
    margin: 0 auto;
    width: 70%;
@@ -130,7 +130,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 12px 'Lato', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #0070f0; }
 
 
 /* ------------------------------------------------------------------ */
@@ -194,10 +194,10 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #1156b0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 22px/30px 'Lato', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
@@ -242,20 +242,20 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #1156b0; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Lato', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #1156b0;
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 25px/30px 'Lato', sans-serif;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 16px/24px 'Lato', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -277,7 +277,7 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 15px/24px 'Lato-regular', sans-serif;
    margin-top: 6px;
 }
 
@@ -303,7 +303,7 @@ ul#nav li.current a { color: #F06000; }
   	border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 15px 'Lato', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
@@ -422,7 +422,7 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 15px/24px 'Lato-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
@@ -496,11 +496,11 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
-   font: 14px/21px 'opensans-bold', sans-serif;
+   font: 14px/21px 'Lato', sans-serif;
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 12px/18px 'opensans-light', sans-serif;
+   font: 12px/18px 'Lato-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
 }
@@ -526,17 +526,17 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
 .popup-modal .description-box h4 {
-   font: 15px/24px 'opensans-bold', sans-serif;
+   font: 15px/24px 'Lato', sans-serif;
 	margin-bottom: 12px;
    color: #111;
 }
 .popup-modal .description-box p {
-	font: 14px/24px 'opensans-regular', sans-serif;
+	font: 14px/24px 'Lato-regular', sans-serif;
    color: #A1A1A1;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
-   font: 11px/21px 'opensans-light', sans-serif;
+   font: 11px/21px 'Lato-light', sans-serif;
    color: #A1A1A1;
    text-transform: uppercase;
    letter-spacing: 2px;
@@ -553,12 +553,12 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal .link-box a {
    color: #fff;
-	font: 11px/21px 'opensans-bold', sans-serif;
+	font: 11px/21px 'Lato', sans-serif;
 	text-transform: uppercase;
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: #1156b0; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -593,14 +593,14 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 48px;
 }
 #call-to-action h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Lato', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Lato';
    content: "\f0ac";
 	padding-right: 10px;
 	font-size: 72px;
@@ -613,7 +613,7 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 12px;
 }
 #call-to-action h2 {
-   font: 28px/36px 'opensans-bold', sans-serif;
+   font: 28px/36px 'Lato', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
@@ -636,7 +636,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif;
+	font-family: 'Lato-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -660,7 +660,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Lato', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -668,7 +668,7 @@ call-to-action .button {
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Lato';
    content: "\f10d";
 	padding-right: 10px;
 	font-size: 72px;
@@ -687,7 +687,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'Lato', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
@@ -801,11 +801,11 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #1156b0; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Lato', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
@@ -813,7 +813,7 @@ call-to-action .button {
 }
 #contact h1 span { display: none; }
 #contact h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Lato';
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;
@@ -824,12 +824,12 @@ call-to-action .button {
 }
 
 #contact h4 {
-   font: 16px/24px 'opensans-bold', sans-serif;
+   font: 16px/24px 'Lato', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
 #contact p.lead {
-   font: 18px/36px 'opensans-light', sans-serif;
+   font: 18px/36px 'Lato-light', sans-serif;
    padding-right: 3%;
 }
 #contact .header-col { padding-top: 6px; }
@@ -838,7 +838,7 @@ call-to-action .button {
 /* contact form */
 #contact form { margin-bottom: 30px; }
 #contact label {
-   font: 15px/24px 'opensans-bold', sans-serif;
+   font: 15px/24px 'Lato', sans-serif;
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
@@ -862,7 +862,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #1156b0;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -881,7 +881,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #1156b0;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -893,7 +893,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #1156b0; }
 
 #message-warning i,
 #message-success i {
@@ -920,7 +920,7 @@ call-to-action .button {
    display: block;
 }
 #twitter li b a {
-   font: 13px/36px 'opensans-regular', Sans-serif;
+   font: 13px/36px 'Lato-regular', Sans-serif;
    color: #474747 !important;
    border: none;
 }
@@ -977,7 +977,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #1156b0;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -1008,4 +1008,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #1156b0; }
