@@ -802,6 +802,7 @@ properly.
 	text-align: center !important;
 }
 
-
-
+.darko {
+   filter: brightness(50%) !important;
+}
 
