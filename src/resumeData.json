@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Piotr Dudek",
+    "name":"Peter Dudek",
     "occupation":"",
     "description":"Web Developer leveraging project management and compliance background to build web applications and create the ultimate user experience",
     "image":"profilepic.jpg",
@@ -13,21 +13,21 @@
       "state":"NY"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/18QaT_OMufCjvYppv-aEjR8Yzd37k64d9/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1wvS8FygCZmsO6CCOLOFVrhdC3pfdLPmV/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/-piotr-dudek/",
+        "url":"https://www.linkedin.com/in/ptr-dudek/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/Piotr72us",
+        "url":"https://github.com/peterdudek",
         "className":"fa fa-github"
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/Piotr727",
+        "url":"https://twitter.com/_peter_dudek_",
         "className":"fa fa-twitter"
       }
     ]
@@ -56,7 +56,7 @@
     ],
     "work":[
       {
-        "company":"Repechage",
+        "company":"Sarkli-Repechage, Ltd.",
         "title":"Project Manager",
         "years":"Jan 2016 - Present",
         "description":"Enhanced company efficacy by implementing new PM software and revising operating procedures, which resulted in timely and cost-effective product launches. Successfully led the Quality Management Team at the Annual ISO Inspections, improving results by 100% for two consecutive years and earning recognition for developing a cutting-edge internal audit program."
@@ -101,25 +101,25 @@
       {
         "title":"Kakeibo",
         "category":"The Kakeibo app monitors how much you are spending on streaming services.",
-        "image":"https://raw.githubusercontent.com/Piotr72us/project3/main/client/src/img/Kakeibo-%E5%AE%B6%E8%A8%88%E7%B0%BF.png",
+        "image":"https://raw.githubusercontent.com/peterdudek/peter-portfolio/master/assets/images/kakeibo-screen.png",
         "url":"https://kakeibo21.herokuapp.com/"
       },
       {
         "title":"Google Books Search",
         "category":"This React app allows users to search for hundreds of thousands of book titles from all over the world through Google Books API.",
-        "image":"https://raw.githubusercontent.com/Piotr72us/google-books-search/main/client/public/img/screenshot-gbs.png",
+        "image":"https://raw.githubusercontent.com/peterdudek/google-books-search/main/client/public/img/screenshot-gbs.png",
         "url":"https://google-books-peter.herokuapp.com/"
       },
       {
         "title":"Employee Connect",
         "category":"This app allows you to search, sort, and filter your employee information.",
-        "image":"https://raw.githubusercontent.com/Piotr72us/employee-connect/main/src/img/screen.png",
-        "url":"https://piotr72us.github.io/employee-connect/"
+        "image":"https://raw.githubusercontent.com/peterdudek/employee-connect/main/src/img/screen.png",
+        "url":"https://peterdudek.github.io/employee-connect/"
       },
       {
         "title":"Balance Pro 2.0",
         "category":"Balance Pro 2.0 is a progressive web app (PWA) that gives users the freedom of tracking their withdrawals and deposits with or without an Internet connection.",
-        "image":"https://raw.githubusercontent.com/Piotr72us/budget-tracker/main/public/img/screen.png",
+        "image":"https://raw.githubusercontent.com/peterdudek/budget-tracker/main/public/img/screen.png",
         "url":"https://budgets-tracker.herokuapp.com/"
       }
     ]
@@ -127,12 +127,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Piotr and I worked together on the same team and I always admired him for his work ethic, professionalism and intelligence. He has excellent management skills and always goes the extra mile to accomplish what needs to be done. Piotr is dedicated, a hard worker and is an asset to the team.",
+        "text":"Peter and I worked together on the same team and I always admired him for his work ethic, professionalism and intelligence. He has excellent management skills and always goes the extra mile to accomplish what needs to be done. Peter is dedicated, a hard worker and is an asset to the team.",
         "user":"Katlynn Muratore"
       },
       {
-        "text":"Piotr is a talented programmer!",
-        "user":"Shiri Rosental"
+        "text":"Peter is a talented and passionate programmer!",
+        "user":"Shiri Rosental, Esq."
       }
     ]
   }
