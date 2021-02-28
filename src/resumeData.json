@@ -118,7 +118,7 @@
       },
       {
         "title":"Balance Pro 2.0",
-        "category":"Balance Pro 2.0 is a progressive web app (PWA) that gives users the freedom of tracking their withdrawals and deposits with or without an Internet connection.",
+        "category":"Balance Pro 2.0 is a progressive web app (PWA) that tracks user's withdrawals and deposits with or without an Internet connection.",
         "image":"https://raw.githubusercontent.com/peterdudek/budget-tracker/main/public/img/screen.png",
         "url":"https://budgets-tracker.herokuapp.com/"
       }
