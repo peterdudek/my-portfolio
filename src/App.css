@@ -43,3 +43,17 @@
 .smoothscroll:hover {
   color: #0070f0 !important;
 }
+
+/* .fab-fa-medium {
+  background-image: url("./img/medium-brands.svg") !important;
+} */
+
+ul.social li:hover, ul.social-links li:hover {
+  transform: scale(1.5);
+  transition: all .5s ease;
+}
+
+#go-top:hover, img:hover {
+  transform: scale(1.2);
+  transition: all .5s ease;
+}
