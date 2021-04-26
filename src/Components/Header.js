@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import TypedReactDemo from "./Typed";
 
 class Header extends Component {
    render() {
@@ -36,6 +37,21 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">{name}</h1>
+                  <br></br>
+                  <h2 style={{color: "white"}}>
+                     <TypedReactDemo
+                        strings={[
+                           'Web Developer',
+                           // 'Web ^1000 Developer',
+                           // '<strong>
+                           'Web Designer',
+                           // </strong>',
+                           'Tech Enthusiast',
+                           'Project Manager'
+                        ]}
+                     />
+                  </h2>
+                  <br></br>
                   <h3>A {city} based {occupation} {description}.</h3>
                   <hr />
                   <ul className="social">
