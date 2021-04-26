@@ -13,7 +13,7 @@
       "state":"NY"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/1-H0NJRlxVKZZk60E3GRsegfL88mpvt0X/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1w0qajBz80rBd8PCRWhiJNzQYlMFOSmAe/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -70,28 +70,28 @@
     ],
     "skills":[
       {
-        "name":"React.js",
+        "name":" React.js",
         "level":"100%"
       },
       {
-        "name":"JavaScript",
+        "name":" JavaScript",
         "level":"100%"
       },
       {
-        "name":"CSS3",
+        "name":" CSS3",
         "level":"100%"
       },
       {
-        "name":"HTML5",
+        "name":" HTML5",
         "level":"100%"
       },
 
       {
-        "name":"MongoDB",
+        "name":" MongoDB",
         "level":"100%"
       },
       {
-        "name":"Git",
+        "name":" Git",
         "level":"100%"
       }
     ]
