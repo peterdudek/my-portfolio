@@ -6,9 +6,9 @@ class Header extends Component {
 
       if (this.props.data) {
          var name = this.props.data.name;
-         var occupation = this.props.data.occupation;
-         var description = this.props.data.description;
-         var city = this.props.data.address.city;
+         // var occupation = this.props.data.occupation;
+         // var description = this.props.data.description;
+         // var city = this.props.data.address.city;
          var resume = this.props.data.resumedownload;
          var networks = this.props.data.social.map(function (network) {
             return <li key={network.name}><a href={network.url} target="_blank" rel="noreferrer"><i className={network.className}></i></a></li>
@@ -41,10 +41,11 @@ class Header extends Component {
                   <h2 style={{color: "white"}}>
                      <TypedReactDemo
                         strings={[
-                           'Web Developer',
+                           'Pega Certified System Architect',
                            // 'Web ^1000 Developer',
                            // '<strong>
-                           'Web Designer',
+                           'Java Developer',
+                           'Web Developer',
                            // </strong>',
                            'Tech Enthusiast',
                            'Project Manager'
@@ -52,7 +53,10 @@ class Header extends Component {
                      />
                   </h2>
                   <br></br>
-                  <h3>A {city} based {occupation} {description}.</h3>
+                  {/* <h3>A {city} based {occupation} {description}.</h3> */}
+                  <h3>
+                  A Pega Certified System Architect leveraging project management and compliance background to build applications that meet business objectives and create the ultimate user experience.
+                  </h3>
                   <hr />
                   <ul className="social">
                      {networks}
